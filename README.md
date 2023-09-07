@@ -18,12 +18,16 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ## Usage
 
-- Type in a keyword into the search bar (for example: "spider-man").
+- Type a keyword into the search bar (for example: "spider-man").
 - Hover over any of the results to view its release date. 
 
-## Screenshot
+## Screenshots
 
-![Screenshot of results for "spider-man" as keyword](assets/images/screenshot.png)
+<b>Default state</b>
+![Screenshot of app default state](assets/images/screenshot1.png)
+
+<b>Release date of a result</b>
+![Screenshot of result on hover revealing release date](assets/images/screenshot2.png)
 
 ## Credits
 
