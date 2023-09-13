@@ -18,16 +18,21 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ## Usage
 
-- Type in a keyword into the search bar (for example: "spider-man").
+- Type a keyword into the search bar (for example: "spider-man").
 - Hover over any of the results to view its release date. 
 
-## Screenshot
+## Screenshots
 
-![Screenshot of results for "spider-man" as keyword](assets/images/screenshot.png)
+<b>Default state</b>
+![Screenshot of app default state](assets/images/screenshot1.png)
+
+<b>Release date of a result</b>
+![Screenshot of result on hover revealing release date](assets/images/screenshot2.png)
 
 ## Credits
 
-- This project was completed as practice in accordance with guidance provided by a 72-minute [YouTube tutorial](https://youtu.be/b9eMGE7QtTk) uploaded by [JavaScript Mastery](https://www.youtube.com/@javascriptmastery) on the 4th of March 2022, titled “React JS Full Course 2023 | Build an App and Master React in 1 Hour”. 
-- The API used in the project was sourced from [OMDb API](http://www.omdbapi.com).
+- This project was completed as practice in accordance with guidance provided by a 72-minute [YouTube tutorial](https://youtu.be/b9eMGE7QtTk) uploaded by [JavaScript Mastery](https://www.youtube.com/@javascriptmastery) on the 4th of March 2022, titled “React JS Full Course 2023 | Build an App and Master React in 1 Hour”.
+- The styling used in this project was sourced from [Adrian Hajdin's Movie App Github repository](https://gist.github.com/adrianhajdin/997a8cdf94234e889fa47be89a4759f1).
+- The API used in this project was sourced from [OMDb API](http://www.omdbapi.com).
 - This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
